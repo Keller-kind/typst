@@ -145,3 +145,8 @@
   = Bibliographie
   #bibliography(style: "american-psychological-association", "bib.yaml")
 ]
+
+#slide[
+  #show: focus
+  Questions?
+]
