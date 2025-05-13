@@ -113,7 +113,7 @@
    = Analyseziele
 
    - _Makro:_ Verlieren wir das Vertrauen in Regierung und Arbeitgeber mit dem Wissen dass jede unserer Bewegungen überwacht wird?
-   - _Meso:_ Verändert sich das Kommunikationsverhalten hin zu persönlichen Konversationen?
+   - _Meso:_ #strike[Verändert sich das Kommunikationsverhalten hin zu persönlichen Konversationen?] Inwiefern verändert eine erhöhte Digitale Affinität das Vertrauen in das eigene Smartphone?
    - _Mikro:_ Inwiefern können wir unsere Überwachung selbst beeinflussen / verringern?
    
 
@@ -137,6 +137,20 @@
   - Wie beeinflusst KI-Überwachung durch Smartphones Normen des (Arbeits)Verhaltens?
   - Welche Rolle spielt Datenschutz als Entscheidungsfaktor beim Einsatz von KI-Funktionen im Smartphone? 
  
+]
+
+#new-section[Methoden]
+
+#slide[
+  = Methoden
+  - Umfrage
+  - Zielgruppe: Möglichst divers (wahrscheinlich sample group bias)
+  - 13 Fragen
+    - Unterteilung in
+      - Diensthandy / kein Diensthandy
+      - Betriebssystem
+      - Tägliche Nutzungszeit
+      - Digitale Affinität
 ]
 
 #new-section[Bibliograpie]

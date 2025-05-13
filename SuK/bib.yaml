@@ -11,7 +11,7 @@ meta:
     type: Article
     title: "Meta AI jetzt auch in Europa - Hilfreiches Tool oder ungehemmte Datenkrake?"
     author: Erbel, Jens
-    url: {value: "https://www.tagesschau.de/wirtschaft/digitales/meta-ai-104.html", date: 2025}
+    url: {value: "https://www.tagesschau.de/wirtschaft/digitales/meta-ai-104.html", date: 2025-4-29}
     parent:
         type: Blog
         title: Tagesschau
@@ -20,7 +20,7 @@ apple:
     type: Article
     title: "Apple führt neue KI-Funktionen vorerst nicht in der EU ein"
     author:
-    url: {value: "https://www.zeit.de/digital/2024-06/apple-intelligence-eu-digital-markets-act-ki-datenschutz", date:2025-4-29}
+    url: {value: "https://www.zeit.de/digital/2024-06/apple-intelligence-eu-digital-markets-act-ki-datenschutz", date: 2025-4-29}
     parent:
         type: Blog
         title: Zeit Online
@@ -30,7 +30,7 @@ polizei:
     type: Article
     title: "Gesichtserkennung für Fahndung - Das soll die Polizei bald dürfen"
     author:
-    url: {value: "https://www.deutschlandfunk.de/gesichtserkennung-polizei-faeser-ki-100.html", date:2025-4-29}
+    url: {value: "https://www.deutschlandfunk.de/gesichtserkennung-polizei-faeser-ki-100.html", date: 2025-4-29}
     parent:
         type: Blog
         title: Deutschlandfunk
@@ -40,7 +40,7 @@ discrimination:
     type: Article
     title: "Proceed with caution: AI poses issues of discrimination, surveillance"
     author:
-    url: {value: "https://www.wbur.org/hereandnow/2024/01/03/artificial-intelligence-bias", date:2025-4-29}
+    url: {value: "https://www.wbur.org/hereandnow/2024/01/03/artificial-intelligence-bias", date: 2025-4-29}
     parent:
         type: Blog
         title: wbur
@@ -50,7 +50,7 @@ locationdata:
     type: Article
     title: "FTC cracks down on companies that glean location data without users consent"
     author:
-    url: {value: "https://www.npr.org/2024/02/09/1230517659/ftc-cracks-down-on-companies-that-glean-location-data-without-users-consent", date:2025-4-29}
+    url: {value: "https://www.npr.org/2024/02/09/1230517659/ftc-cracks-down-on-companies-that-glean-location-data-without-users-consent", date: 2025-4-29}
     parent:
         type: Blog
         title: npr
@@ -60,7 +60,7 @@ privacy:
     type: audio
     title: "AI’s next leap requires intimate access to your digital life"
     author:
-    url: {value: "https://www.washingtonpost.com/technology/2025/01/05/agents-ai-chatbots-google-mariner", date:2025-4-29}
+    url: {value: "https://www.washingtonpost.com/technology/2025/01/05/agents-ai-chatbots-google-mariner", date: 2025-4-29}
     parent:
         type: Blog
         title: Washington Post
@@ -70,7 +70,7 @@ bossware:
     type: Article
     title: "If you think ‘bossware’ surveillance culture in the workplace is new, think again"
     author:
-    url: {value: "https://www.theguardian.com/commentisfree/2023/nov/18/if-you-think-bossware-surveillance-culture-in-the-workplace-is-new-think-again", date:2025-4-29}
+    url: {value: "https://www.theguardian.com/commentisfree/2023/nov/18/if-you-think-bossware-surveillance-culture-in-the-workplace-is-new-think-again", date: 2025-4-29}
     parent:
         type: Blog
         title: Guardian
