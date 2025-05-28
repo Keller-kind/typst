@@ -152,7 +152,107 @@
       - Tägliche Nutzungszeit
       - Digitale Affinität
 ]
+#slide[
+  = Methoden / Fragen
+  - Gruppensegmentierung
+    - Besitz eines Diensthandys
+    - Betriebssystem
+    - Häufigkeit der Smartphone Nutzung im Berufsalltag
+    - Digitale Affinität
+  
+]
 
+#slide[
+  = Methoden / Fragen
+  - Allgemeine Nutzung des Smartphones
+    - Welche KI-Funktionen des Smartphones werden genutzt
+    - Wie Informiert fühlt sich der befragte Über die Funktionen die er benutzt
+]
+#slide[
+  = Methoden / Fragen
+  - Vertrauen in KI gestütze Überwachung (Likert-Skala)
+    - Ich vertraue meinem Smartphone-Hersteller, dass er meine Daten sicher und verantwortungsvoll verarbeitet.
+    - Ich vertraue App-Anbietern, dass sie KI-Analysen nicht für unerwünschte Überwachung missbrauchen.
+    - KI-gestützte Überwachungsfunktionen (z. B. Bewegungs-, Sprach- oder Gesichtserkennung) empfinde ich als hilfreich.
+    - KI-Überwachung auf dem Smartphone macht mich eher misstrauisch gegenüber meinen Geräten.
+]
+
+#slide[
+  = Methoden / Fragen
+  - Datenschutzbedürfnis
+    - Wie besorgt ist der Benutzer insgesamt bezüglich des Datenschutzes auf seinem Smartphone? (Likert-Skala)
+    - Wäre der User bereit, auf bestimmte KI-Features zu verzichten, wenn dies das Datenschutzniveau verbessert?
+    - Wie wichtig ist dem User Transparenz darüber, welche Daten Ihre Apps sammeln und wie sie mit KI-Algorithmen verarbeitet werden?
+]
+#new-section[Pretest]
+
+#slide[
+  = Abschnitt 1 / Gruppensegmentierung
+
+  - Auf meinem Smartphone läuft:
+    - IOS / Android / Keine Ahnung oder anderes
+  - Ich nutze mein Smartphone
+    - Selten (<= 1h/Tag) / Gelegentlich  (2-3h/Tag) / Häufig (>3h/Tag)
+  - Ich würde meine Digitale Affinität ( Fähigkeit und Bereitschaft, digitale Technologien und Prozesse zu verstehen, zu nutzen und zu akzeptieren  ) beschreiben als
+    - Skala 1-5 / Niedrig-Hoch
+  
+]
+
+#slide[
+  = Abschnitt 2 / Allgemeine Smartphonenutzung
+
+  - Ich nutze die folgenden Funktionen meines Smartphones
+    - Mehrfachauswahl möglich
+    - Sprachassistent (z.B. Siri, Google Assistant, Bixby, Alexa)
+    - Gesichts- / Fingerabdruckerkennung zum Entsperren
+    - Personalisierte Benachrichtigungen (z. B. News-Feeds, App-Empfehlungen)
+    - Automatische Foto-/Video-Analyse (z. B. Motiverkennung, Gruppierung von Bildern nach Personen)
+    - Generative KI (z.B. ChatGPT, Meta AI z.B. in Whatsapp, Deepseek)
+    - Fitness-Apps / Schlaftracker
+    - Keine KI-Funktion bewusst genutzt
+]
+#slide[
+  = Abschnitt 2 / Allgemeine Smartphonenutzung
+
+  - Ich fühle mich über die KI-Funktionen auf meinem Smartphone gut informiert
+    - Skala 1-5 / gar nicht - sehr gut
+]
+
+#slide[
+  = Abschnitt 3 / Vertrauen in KI-gestützte Überwachung
+
+  - Ich vertraue meinem Smartphone-Hersteller, dass er meine Daten sicher und verantwortungsvoll verarbeitet.
+    - Skala 1-5 / sehr wenig Vertrauen - Sehr viel Vertrauen
+  - Ich vertraue App-Anbietern, dass sie KI-Analysen nicht für unerwünschte Überwachung missbrauchen.  
+    - Skala 1-5 / sehr wenig Vertrauen - Sehr viel Vertrauen
+  - KI-gestützte Überwachungsfunktionen (z. B. Bewegungs-, Sprach- oder Gesichtserkennung) empfinde ich als hilfreich.  
+    - Skala 1-5 - gar nicht hilfreich - sehr hilfreich
+  - KI-Überwachung auf dem Smartphone macht mich eher misstrauisch gegenüber meinen Geräten.  
+    - Skala 1-5 / Stimme gar nicht zu - Stimme voll zu
+]
+
+#slide[
+  = Abschnitt 4 / Datenschutzbedürfnis und Einstellungen
+
+  - Ich bin insgesamt bezüglich des Datenschutzes auf meinem Smartphone besorgt
+    - Skala 1-5 / gar nicht besorgt - sehr besorgt
+  - Ich wäre bereit, auf bestimmte KI-Features zu verzichten, wenn dies mein Datenschutzniveau verbessert?  
+    - Ja, auf jeden Fall / Vielleicht, hängt vom Feature ab / Nein, ich möchte auf keine Funktion verzichten
+  - Mir ist die Transparenz darüber wichtig, welche Daten meine Apps sammeln und wie sie mit KI-Algorithmen verarbeitet werden
+    - Skala 1-5 / überhaupt nicht wichtig - sehr wichtig
+    
+  - Was müsste passieren, damit ich meiner Smartphone-KI-Überwachung voll vertrauen könnte
+    - Offene Frage
+]
+
+#slide[
+  = Pretest
+
+  - Erfolgreich mit 2 Personen getestet
+  - Fragestellungen sind verständlich
+  - Satzformen angepasst
+  - #link("https://forms.gle/uTwjX8wFCbZWEGF86")
+]
 #new-section[Bibliograpie]
 
 #slide[
@@ -163,4 +263,11 @@
 #slide[
   #show: focus
   Questions?
+]
+#slide[
+  = Notizen
+  Pretest durchführen
+
+
+  Fragestellungen überarbeiten
 ]
