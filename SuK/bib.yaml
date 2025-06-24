@@ -5,11 +5,13 @@ taylor:
     serial-number: 
       isbn: 9780486299884
     date: 1911
+    publisher: Harper & Brothers (New York, London)
+    location: New York, London
 
 meta:
     date: 2025-3-29
     type: Article
-    title: "Meta AI jetzt auch in Europa - Hilfreiches Tool oder ungehemmte Datenkrake?"
+    title: "Meta AI jetzt auch in Europa - Hilfreiches Tool oder ungehemmte Datenkrake? (entnommen: 29.4.2025)"
     author: Erbel, Jens
     url: {value: "https://www.tagesschau.de/wirtschaft/digitales/meta-ai-104.html", date: 2025-4-29}
     parent:
@@ -18,7 +20,7 @@ meta:
 apple:
     date: 2024-6-22
     type: Article
-    title: "Apple führt neue KI-Funktionen vorerst nicht in der EU ein"
+    title: "Apple führt neue KI-Funktionen vorerst nicht in der EU ein (entnommen: 29.4.2025)"
     author:
     url: {value: "https://www.zeit.de/digital/2024-06/apple-intelligence-eu-digital-markets-act-ki-datenschutz", date: 2025-4-29}
     parent:
@@ -28,7 +30,7 @@ apple:
 polizei:
     date: 2024-8-12
     type: Article
-    title: "Gesichtserkennung für Fahndung - Das soll die Polizei bald dürfen"
+    title: "Gesichtserkennung für Fahndung - Das soll die Polizei bald dürfen (entnommen: 29.4.2025)"
     author:
     url: {value: "https://www.deutschlandfunk.de/gesichtserkennung-polizei-faeser-ki-100.html", date: 2025-4-29}
     parent:
@@ -38,7 +40,7 @@ polizei:
 discrimination:
     date: 2024-1-3
     type: Article
-    title: "Proceed with caution: AI poses issues of discrimination, surveillance"
+    title: "Proceed with caution: AI poses issues of discrimination, surveillance (entnommen: 29.4.2025)"
     author:
     url: {value: "https://www.wbur.org/hereandnow/2024/01/03/artificial-intelligence-bias", date: 2025-4-29}
     parent:
@@ -48,7 +50,7 @@ discrimination:
 locationdata:
     date: 2024-2-9
     type: Article
-    title: "FTC cracks down on companies that glean location data without users consent"
+    title: "FTC cracks down on companies that glean location data without users consent (entnommen: 29.4.2025)"
     author:
     url: {value: "https://www.npr.org/2024/02/09/1230517659/ftc-cracks-down-on-companies-that-glean-location-data-without-users-consent", date: 2025-4-29}
     parent:
@@ -58,7 +60,7 @@ locationdata:
 privacy:
     date: 2025-5-1
     type: audio
-    title: "AI’s next leap requires intimate access to your digital life"
+    title: "AI’s next leap requires intimate access to your digital life (entnommen: 29.4.2025)"
     author:
     url: {value: "https://www.washingtonpost.com/technology/2025/01/05/agents-ai-chatbots-google-mariner", date: 2025-4-29}
     parent:
@@ -68,7 +70,7 @@ privacy:
 bossware:
     date: 2023-11-18
     type: Article
-    title: "If you think ‘bossware’ surveillance culture in the workplace is new, think again"
+    title: "If you think ‘bossware’ surveillance culture in the workplace is new, think again (entnommen: 29.4.2025)"
     author:
     url: {value: "https://www.theguardian.com/commentisfree/2023/nov/18/if-you-think-bossware-surveillance-culture-in-the-workplace-is-new-think-again", date: 2025-4-29}
     parent:
@@ -78,9 +80,16 @@ bossware:
 health:
     date: 2025-4-29
     type: Article
-    title: "Smartphones erkennen Herzinsuffizienz: KI-gestützte EKG-Analyse"
+    title: "Smartphones erkennen Herzinsuffizienz: KI-gestützte EKG-Analyse (entnommen: 29.4.2025)"
     author:
     url: {value: "https://www.it-boltwise.de/smartphones-erkennen-herzinsuffizienz-ki-gestuetzte-ekg-analyse.html", date: 2025-4-29}
     parent:
         type: Blog
         title: it-boltwise
+
+trust:
+    type: Article
+    date: 1996-01
+    title: "The meanings of Trust"
+    author: McKnight, Chervany
+    url: {value: "https://www.researchgate.net/publication/239538703_The_Meanings_of_Trust", date: 2025-06-23}

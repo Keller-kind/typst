@@ -195,7 +195,6 @@
     - Selten (<= 1h/Tag) / Gelegentlich  (2-3h/Tag) / Häufig (>3h/Tag)
   - Ich würde meine Digitale Affinität ( Fähigkeit und Bereitschaft, digitale Technologien und Prozesse zu verstehen, zu nutzen und zu akzeptieren  ) beschreiben als
     - Skala 1-5 / Niedrig-Hoch
-  
 ]
 
 #slide[
@@ -253,21 +252,42 @@
   - Satzformen angepasst
   - #link("https://forms.gle/uTwjX8wFCbZWEGF86")
 ]
-#new-section[Bibliograpie]
 
 #slide[
-  = Bibliographie
-  #bibliography(style: "american-psychological-association", "bib.yaml")
+  = Definition Vertrauen
+
+  Im Folgenden definieren wir:
+
+  - Vertrauen nach McKnight & Chervanys Vertrauensmodell @trust
+  - Im besonderen die Komponente "Trusting Beliefs"
+    - *Die Überzeugungen, die eine Person über die Eigenschaften und das Verhalten einer anderen Person (oder Institution) hat, die sie als vertrauensrelevant einstuft*
+    - *Mentale Einschätzung, ob die andere Partei vertrauenswürdig ist – insbesondere hinsichtlich ihrer Absichten, Fähigkeiten und Integrität.*
+]
+#slide[
+  = Definition Vertrauen
+
+  Im besonderen die Subdimensionen:
+
+  - Benevolenz
+    - Der Glaube, dass die andere Partei gute Absichten hat und auf das Wohl des Vertrauengebers bedacht ist, auch wenn es nicht in ihrem unmittelbaren Eigeninteresse liegt.
+  - Integrität
+    - Die Annahme, dass die andere Person(oder Institution) ehrlich ist, sich an akzeptierte Prinzipien hält und ihr Handeln mit ihren Worten übereinstimmt
+    
+  
+]
+#slide[
+  = Zwischenergebnisse Umfrage
+
+  - Hier Livedemo einfügen
 ]
 
 #slide[
   #show: focus
   Questions?
 ]
+
+#new-section[Bibliograpie]
 #slide[
-  = Notizen
-  Pretest durchführen
-
-
-  Fragestellungen überarbeiten
+  = Bibliographie
+  #bibliography(style: "american-psychological-association", "bib.yaml")
 ]
