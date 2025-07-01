@@ -91,5 +91,6 @@ trust:
     type: Article
     date: 1996-01
     title: "The meanings of Trust"
+    page-range: 33-35
     author: McKnight, Chervany
     url: {value: "https://www.researchgate.net/publication/239538703_The_Meanings_of_Trust", date: 2025-06-23}

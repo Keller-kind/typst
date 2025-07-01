@@ -275,11 +275,147 @@
     
   
 ]
+
+#slide[
+  = Umfrage
+  #align(center)[
+  #image("qr-code.svg")
+]
+]
 #slide[
   = Zwischenergebnisse Umfrage
 
   - Hier Livedemo einfügen
 ]
+
+
+#new-section[Ergebnisse und Ausblick]
+
+#slide[
+  = Betriebssystem
+  #image("betriebssystem.png")
+  n=60
+]
+#slide[
+  = Nutzungszeit
+  #image("nutzungszeit.png")
+  n=60
+]
+#slide[
+  = Digitale Affinität
+  #image("affinität.png")
+]
+#slide[
+  = Ich fühle mich informiert über die Funktionen meines Handys
+#image("informiert.png")
+n=60
+#image("informiert_kor.jpg")
+]
+
+#slide[
+  = Ich vertraue meinem Smartphone-Hersteller
+  #image("vertrauen-hersteller.png")
+n=60
+
+#image("vertrauen-hersteller_kor.jpg")
+]
+#slide[
+  = Ich vertraue App-Anbietern
+  #image("vertrauen-app-anbieter.png")
+  n=60
+
+  #image("vertrauen-app-anbieter_kor.jpg")
+]
+#slide[
+  = KI-gestützte Überwachungsfunktionen
+  #image("ki-ueberwachung.png")
+  n=60
+  #image("ki-ueberwachung_kor.jpg")
+]
+#slide[
+  = KI-Überwachung misstrauen
+  #image("ki-ueberwachung-misstrauen.png")
+  n=60
+  #image("ki-ueberwachung-misstrauen_kor.jpg")
+]
+#slide[
+  = Datenschutzes auf meinem Smartphone besorgt
+  #image("datenshutz-smartphone.png")
+  n=59
+  #image("datenschuty-smartphone_kor.jpg")
+]
+#slide[
+  = KI-Features verzichten
+  #image("ki-features.png")
+  n=60
+]
+#slide[
+  = Transparenz KI-Algorithmen
+  #image("transparenz.png")
+  n=60
+]
+
+#slide[
+  = Korrelation Betriebssystem / Vertrauen
+  #image("Betriebssystem_kor.jpg")
+]
+
+#slide[
+  = Offene Frage
+  - Internationale Gesetze mit strengen Bußgeldern und strenger Überwachung
+  - Sicherheit und Transparenz bei der Nutzung
+  - Mehr Datenschutz
+  - Das ist eine sehr gut Frage. Ich finde es man sollte sehen können was genau überwacht wird, wie es überwacht wird und es sollte eine End-zu-End Verschlüsselung haben
+]
+#slide[
+  - Kein volles Vertrauen in Computer Systeme generell! Kein von Menschen geschaffenes System ist sicher! Die größte Sicherheitslücke ist der Mensch! Somit niemals Vertrauen in solche Systeme! Who am I / Black mirror - sind filmologische Beispiele
+  - Ich vertraue dem voll und ganz oder bin zumindest nicht besorgt darüber.
+  - Technisch nachvollziehen zu können wir die Daten verarbeitet werden. Und an wen die Daten geschickt Bzw wo sie gespeichert werden und wer alles Zugriff darauf hat.
+]
+#slide[
+  - Daran habe ich nicht gedacht.
+  - Ich würde sagen das es eher an mir liegt als an irgendeiner KI. Ich glaube man muss sich dran gewöhnen.
+  - Transparenz der gespeicherten Information und Löschung von unnötigen Informationen
+- Ich kann es mir leider nicht vorstellen, einer KI vollkommen zu vertrauen.
+- Es müssten mehrere ausführliche Einwilligungserklärungen geben
+]
+#slide[
+  - Wenn es eine Versicherung gibt das sie nicht für andere zwecke gebutzt werden und diese nach der Bedingung in paar stunden automatisch gelöscht werden.
+ - Ich kann mir ehrlich gesagt garnicht vorstellen das ich meiner Smartphone KI Überwachung jemals voll vertrauen könnte
+- Voll vertrauen würde ich wahrscheinlich nie, es fühlt sich als ob jemand ich nicht kenne die ganze Zeit mein Handy anschaut
+- better AI-Act von EU pls Eigenes Betriebsystem aufspielen und open source sachen verwenden
+]
+#slide[
+  - Passiert das nicht schon so ? Die Daten werden so oder so genutzt also auch wenn man kein oder doch vertrauen hat können wir nichts mehr ändern der Mensch wird zum gläsernen Kunden
+- Selbst entscheiden ob ich ki in der App haben möchte (bsp. ki in WhatsApp kann man nicht deaktivieren)
+- Weiß ich nicht
+- Keine Scamanrufe/SMS mehr
+- Wenn ich eine Auflistung von apps & Seiten bekomme die meine persönlichen Daten traken
+]
+#slide[
+  - Keine Ahnung
+- Gar nichts ist bullshit
+- Dafür müsste ich mich besser auskennen
+- Beweise, dass die personenbezogenen Daten geschützt sind.
+- Wo meine Daten hingegangen und was dsmit angestellt wird. Z.b Chat GPT nutzt meine Fragen (wie viele katzen auf dieser Welt darf ich legal halten?) Um Werbung für Katzenfutter zu verkaufen
+- Wird es nicht geben
+- Zustimmung an welche dritt Anbieter meine Daten weitergehen
+]
+#slide[
+  - Hmm also unsere Daten wurde davor eh schon von einigen Apps genommen und verkauft. Ich vermute dass das Internet mehr übee mich weiß als ich selbst. Also Datendiebstahl gab es schon immer. Deshalb stört es mich nicht so sehr
+- offene Kommunikation was mit meinen Daten passiert. Was gespeichert wird
+
+]
+
+#new-section[Ausblick]
+
+#slide[
+  = Offene Fragestellungen für die Zukunft / Perspektiven
+  - Wie lässt sich gesetzlich eine Transparenz der Datennutzung umsetzen?
+  - Könnten von KI komplett generierte Systeme ein höheres Datenschutzniveau bieten
+  - Verändert sich die Wahrnehmung des Datenschutzes in unserer Gesellschaft / gewöhnen wir uns daran, dass Unternehmen mit unseren Daten arbeiten?
+]
+
 
 #slide[
   #show: focus
@@ -290,4 +426,11 @@
 #slide[
   = Bibliographie
   #bibliography(style: "american-psychological-association", "bib.yaml")
+]
+#slide[
+  Offene Fragestellungen für die Zukunft 
+  
+  Perspektiven
+
+  McKnight Seitenzahlen
 ]
